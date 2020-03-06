@@ -19,14 +19,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Paprika'
-copyright = u'2018, Yoann Lecomte'
-author = u'Yoann Lecomte'
+project = 'Paprika'
+copyright = '2018, Yoann Lecomte'
+author = 'Yoann Lecomte'
 
 # The short X.Y version
-version = u''
+version = ''
 # The full version, including alpha/beta/rc tags
-release = u'1.1'
+release = '1.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -58,7 +58,7 @@ master_doc = 'index'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = u'fr'
+language = 'fr'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -74,16 +74,16 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = "sphinx-rtd-theme"
-html_theme_path = ["_themes", ]
+# html_theme = "sphinx-rtd-theme"
+# html_theme_path = ["_themes", ]
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-html_theme_options = {
-    'logo_only': True
-    }
+# html_theme_options = {
+#     'logo_only': True
+#     }
 
 html_logo = "./_static/icon.png"
 
