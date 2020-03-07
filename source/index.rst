@@ -12,8 +12,7 @@ methods develop by Dörfliger and Plagnes in 2009.
 
 The tools are developed on top of QGIS as a plugin which is available on the official repository.
 
-The source code is hosted on github_.
-.. _github: https://github.com/Paprika-plugins
+The source code is hosted on `github <https://github.com/Paprika-plugins>`_.
 
 Due to their high degree of heterogeneity, Karst vulnerability mapping is a challenging task. It’s need
 hydrogeological expertise, and this is not providing by the plugin!
@@ -23,12 +22,11 @@ karst development and reservoir, used to calculate the vulnerability index.
 You can use the toolbox for both source or intrinsic vulnerability mapping, because that depend on your analyses !
 
 This toolbox has been created and developed by
-   - C. Ollivier from EMMAH, Avignon University (France),
-   - Y. Lecomte from SMBS,
+   - Chloe Ollivier from EMMAH, Avignon University (France),
+   - Yoann Lecomte from CARTYL,
    - with the help of N. Mazzilli and K. Chalikakis.
 
-A scientific article has been published: You can find it here_.
-.. _here: https://doi.org/10.1111/gwat.12855
+A scientific article has been published: You can find it `here <https://doi.org/10.1111/gwat.12855>`_.
 
 **The work on this documentation is on progress.**
 
