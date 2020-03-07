@@ -19,14 +19,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Paprika'
-copyright = '2018, Yoann Lecomte'
-author = 'Yoann Lecomte'
+project = 'Paprika-Toolbox'
+copyright = '2020, Yoann Lecomte'
+author = 'Yoann Lecomte, Chloe Ollivier'
 
 # The short X.Y version
-version = ''
+version = '2.1'
 # The full version, including alpha/beta/rc tags
-release = '1.1'
+release = '2.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -106,7 +106,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Paprikadoc'
+htmlhelp_basename = 'Paprika_docs'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -118,7 +118,7 @@ latex_elements = {
 
     # The font size ('10pt', '11pt' or '12pt').
     #
-    # 'pointsize': '10pt',
+    'pointsize': '10pt',
 
     # Additional stuff for the LaTeX preamble.
     #
