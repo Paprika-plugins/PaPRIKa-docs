@@ -6,7 +6,7 @@
 Welcome to Paprika's documentation!
 ===================================
 
-The PaPRIKa toolbox is develop after vulnerability mapping PaPRIKa method .
+The PaPRIKa toolbox is develop after vulnerability mapping `PaPRIKa method <http://infoterre.brgm.fr/rapports/RP-57527-FR.pdf>`_ .
 This method is dedicated to karst aquifers and it is the last released French method update from EPIK and RISKE
 methods develop by Dörfliger and Plagnes in 2009.
 
