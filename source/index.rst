@@ -37,6 +37,5 @@ A scientific article has been published: You can find it `here <https://doi.org/
    introduction
    installation
    start
-   impluvium
    criteres
    finalMap

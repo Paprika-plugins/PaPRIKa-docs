@@ -62,6 +62,7 @@ Sinking stream catchment (optional)
 +++++++++++++++++++++++++++++++++++++
 
 An optional polygon layer that represent an area of run off that end in the catchment area
+
 *  Layer type: Vector layer
 *  Geometry type: Polygon
 *  Fields needed: An integer field containing value between 1 and 4
