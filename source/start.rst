@@ -24,8 +24,6 @@ resolution should be coherent with data resolution.
 *  Geometry type : Polygon
 *  Fields needed : No field needed
 
-
-
 P Factor
 ----------
 
@@ -73,8 +71,17 @@ R Factor
 Lithology
 +++++++++++
 
+A polygon layer that represent the lithology
+
+*  Layer type: Vector layer
+*  Geometry type: Polygon
+*  Fields needed: An integer field containing value between 0 and 4
+
 Structure (optional)
 ++++++++++++++++++++++
+
+Polygons, lines or points, representing structures that may
+decrease groundwater protection.
 
 I Factor
 ----------
@@ -82,14 +89,32 @@ I Factor
 DEM
 +++++
 
+A DEM one band raster that will be used to compute the slope
+
+*  Layer type: Raster layer
+
 Karst Features (optional)
 ++++++++++++++++++++++++++
+
+Polygons with karst features that you want employed
+to compute I index with attributes that gives a relative vulnerability index.
+
+*  Layer type: Vector layer
+*  Geometry type: Polygon
+*  Fields needed: An integer field containing value between 0 and 4
 
 Ka Factor
 ----------
 
+Global vulnerability index after system hydrological behavior
+++++++++++++++
+
+Numeric entire between 1 and 4. See PaPRIKa documentation if you have no idea what it is.
+
 Karst Features (optional)
 +++++++++++++++++++++++++++
 
+Polygons of karst features which promote faster flows through the aquifer.
 
-
+*  Layer type: Vector layer
+*  Geometry type: Polygon
