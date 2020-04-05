@@ -5,7 +5,7 @@ Thematics Maps
 Protective Map (P)
 ******************
 
-.. image:: _static/interface_P.jpg
+.. image:: _static/interface_P.png
 
 
 Rock Map (R)
